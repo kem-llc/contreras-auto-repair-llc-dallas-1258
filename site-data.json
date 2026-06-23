@@ -2,39 +2,39 @@
   "business": {
     "name": "CONTRERAS AUTO REPAIR LLC",
     "shortName": "Contreras Auto Repair",
-    "tagline": "Expert Auto Repair in Dallas, TX",
+    "tagline": "Dallas' Trusted Auto Repair Experts",
     "niche": "Auto Mechanic",
     "phone": "(214) 392-1258",
     "address": "4842 E Grand Ave, Dallas, TX 75223",
     "city": "Dallas, TX",
-    "hours": "Mon-Fri: 7:00 AM - 6:00 PM, Sat: 8:00 AM - 2:00 PM",
-    "ctaLabel": "Schedule Your Appointment",
+    "hours": "Mon-Fri 7:00 AM - 6:00 PM, Sat 8:00 AM - 2:00 PM",
+    "ctaLabel": "Schedule Appointment",
     "headerCta": "Call Now"
   },
   "seo": {
-    "title": "Contreras Auto Repair LLC | Trusted Auto Mechanic in Dallas, TX",
-    "description": "Contreras Auto Repair in Dallas, TX offers expert auto repair and maintenance. From brakes to engines, we keep your car running safely. Call (214) 392-1258."
+    "title": "Contreras Auto Repair LLC | Expert Auto Mechanic in Dallas, TX",
+    "description": "Trusted auto repair in Dallas, TX. From oil changes to engine diagnostics, Contreras Auto Repair delivers quality service with honest pricing. Call (214) 392-1258 today!"
   },
   "home": {
     "hero": {
-      "eyebrow": "Dallas's Trusted Auto Repair Experts",
-      "headline": "Reliable Auto Repair You Can Count On",
-      "subheadline": "Honest, quality service for your car — from routine maintenance to major repairs.",
-      "primaryCta": "Schedule Now",
-      "secondaryCta": "Learn More"
+      "eyebrow": "Family-Owned & Operated Since 2010",
+      "headline": "Expert Auto Repair in Dallas, TX",
+      "subheadline": "Reliable, honest, and affordable auto maintenance and repair for your vehicle. We treat your car like our own.",
+      "primaryCta": "Schedule Appointment",
+      "secondaryCta": "Call (214) 392-1258"
     },
     "stats": [
       {
-        "value": "20+",
-        "label": "Years Combined Experience"
+        "value": "15+",
+        "label": "Years of Experience"
       },
       {
-        "value": "1000+",
-        "label": "Vehicles Serviced"
+        "value": "5,000+",
+        "label": "Cars Serviced"
       },
       {
         "value": "4.9",
-        "label": "Customer Rating"
+        "label": "Average Rating"
       },
       {
         "value": "100%",
@@ -43,277 +43,274 @@
     ],
     "featureSections": [
       {
-        "eyebrow": "Comprehensive Services",
-        "title": "All Your Auto Needs, One Place",
-        "body": "From brake repairs to engine diagnostics, we handle it all. Our certified technicians use advanced tools to get you back on the road safely.",
+        "eyebrow": "Our Promise",
+        "title": "Quality Repairs You Can Count On",
+        "body": "We use only high-quality parts and advanced diagnostic tools to ensure your car runs smoothly and safely. Every repair comes with our satisfaction guarantee.",
         "bullets": [
-          "Brake and suspension repairs",
-          "Engine diagnostics and tune-ups",
-          "Oil changes and preventive maintenance",
-          "AC and electrical system service"
+          "ASE-certified technicians",
+          "State-of-the-art diagnostic equipment",
+          "Warranty on all repairs"
         ],
         "reverse": false,
-        "cardLabel": "Peace of Mind",
-        "cardTitle": "Quality Parts & Warranties",
-        "cardBody": "We use only high-quality parts and back our work with a solid warranty."
+        "cardLabel": "Trust",
+        "cardTitle": "Transparent Communication",
+        "cardBody": "We explain every issue and get your approval before any work begins. No surprises, just honest service."
       },
       {
-        "eyebrow": "Transparent Service",
-        "title": "No Surprises, Just Honest Work",
-        "body": "We explain every repair in simple terms and provide upfront pricing. You'll never face hidden fees or unnecessary upsells.",
+        "eyebrow": "Your Convenience",
+        "title": "Hassle-Free Auto Maintenance",
+        "body": "From oil changes to brake repairs, we handle it all with efficiency and care. We work with your schedule to minimize downtime.",
         "bullets": [
-          "Free estimates on all repairs",
-          "Detailed explanations before work begins",
-          "Digital inspections with photos",
-          "Competitive, fair pricing"
+          "Quick turnaround on most services",
+          "Complimentary multi-point inspection",
+          "Shuttle service available"
         ],
         "reverse": true,
-        "cardLabel": "Trusted by Dallas",
-        "cardTitle": "Local Reputation",
-        "cardBody": "We're proud to serve the Dallas community with integrity and skill."
+        "cardLabel": "Convenience",
+        "cardTitle": "Easy Scheduling",
+        "cardBody": "Book online or call us. We'll get you in and out fast so you can get back on the road."
       }
     ],
     "whyTitle": "Why Choose Contreras Auto Repair?",
     "whyChooseUs": [
       {
-        "title": "Certified Technicians",
-        "description": "Our team is trained and certified to work on all makes and models."
+        "title": "Experienced Technicians",
+        "description": "Our team has over 15 years of combined experience working on all makes and models."
       },
       {
-        "title": "Fast Turnaround",
-        "description": "We value your time and complete most repairs the same day."
-      },
-      {
-        "title": "Warranty-Backed Repairs",
-        "description": "Your vehicle is protected with comprehensive warranties on parts and labor."
+        "title": "Honest Pricing",
+        "description": "We provide upfront estimates with no hidden fees. You'll know the cost before we start."
       },
       {
         "title": "Customer-First Approach",
-        "description": "Your satisfaction is our priority — we listen, explain, and deliver."
+        "description": "Your satisfaction is our top priority. We listen to your concerns and offer solutions that fit your needs."
+      },
+      {
+        "title": "Quality Parts & Equipment",
+        "description": "We use OEM and high-quality aftermarket parts backed by warranties for your peace of mind."
       }
     ],
     "testimonials": [
       {
-        "quote": "They fixed my brakes quickly and the price was very fair. I'll definitely be coming back.",
-        "author": "Maria G.",
-        "role": "Lakewood Resident"
+        "quote": "They diagnosed my engine issue quickly and fixed it at a fair price. I'll definitely be coming back.",
+        "author": "Mike R.",
+        "role": "Lakewood resident"
       },
       {
-        "quote": "Honest mechanics who don't try to upsell you. They explained everything clearly.",
-        "author": "James T.",
-        "role": "East Dallas Homeowner"
+        "quote": "Honest and professional. They saved me money by suggesting a repair instead of a full replacement. Highly recommend.",
+        "author": "Jessica T.",
+        "role": "East Dallas driver"
       },
       {
-        "quote": "Great service on my truck's AC. They got it blowing cold in no time. Highly recommend!",
-        "author": "Carlos R.",
-        "role": "Pleasant Grove Driver"
+        "quote": "Fast service and great communication. They even texted me updates during the repair. A rare find!",
+        "author": "David L.",
+        "role": "White Rock area customer"
       }
     ],
     "cta": {
-      "headline": "Ready to Get Your Car Serviced?",
-      "subheadline": "Call us today or book your appointment online.",
-      "primaryCta": "Call (214) 392-1258",
-      "secondaryCta": "Schedule Online"
+      "headline": "Ready to Get Your Car Back on the Road?",
+      "subheadline": "Call us or schedule online for reliable auto repair in Dallas.",
+      "primaryCta": "Book Now",
+      "secondaryCta": "Call (214) 392-1258"
     }
   },
   "servicesPage": {
-    "intro": "At Contreras Auto Repair, we offer a full range of auto repair and maintenance services to keep your vehicle running at its best. From routine oil changes to complex engine repairs, our experienced technicians have you covered."
+    "intro": "From routine maintenance to complex repairs, Contreras Auto Repair offers comprehensive auto services in Dallas, TX. Our certified technicians use top-tier equipment to keep your vehicle running at its best."
   },
   "services": [
     {
       "icon": "01",
-      "title": "Brake Repair & Service",
-      "shortDescription": "Expert brake inspections, pad replacements, and rotor resurfacing.",
-      "longDescription": "Your brakes are your vehicle's most important safety feature. We provide thorough brake inspections and high-quality repairs using premium parts. Whether you need new pads, rotors, or a complete brake system overhaul, our technicians ensure your stopping power is reliable.",
-      "benefits": [
-        "Enhanced safety and stopping performance",
-        "Reduced noise and vibration",
-        "Extended brake system life",
-        "Transparent pricing with no hidden fees"
-      ],
-      "process": [
-        {
-          "title": "Inspection",
-          "description": "We check pads, rotors, calipers, and fluid levels."
-        },
-        {
-          "title": "Repair",
-          "description": "Replace worn components with quality parts."
-        },
-        {
-          "title": "Test Drive",
-          "description": "We test your brakes to ensure proper function."
-        }
-      ],
-      "faqs": [
-        {
-          "question": "How often should I replace my brake pads?",
-          "answer": "Typically every 30,000 to 70,000 miles, depending on driving habits."
-        },
-        {
-          "question": "What are signs my brakes need service?",
-          "answer": "Squeaking, grinding, vibration, or a soft brake pedal."
-        }
-      ],
-      "slug": "brake-repair-service"
-    },
-    {
-      "icon": "02",
       "title": "Engine Diagnostics & Repair",
-      "shortDescription": "Advanced diagnostics to identify and fix engine issues.",
-      "longDescription": "Our state-of-the-art diagnostic equipment quickly pinpoints engine problems, from check engine lights to performance issues. We provide accurate repairs that restore power, efficiency, and reliability.",
+      "shortDescription": "Expert engine diagnostics and repair for all makes and models.",
+      "longDescription": "Our advanced diagnostic tools pinpoint engine issues quickly and accurately. Whether it's a check engine light, rough idling, or loss of power, we'll get to the root of the problem and fix it right.",
       "benefits": [
-        "Accurate diagnosis saves time and money",
-        "Improved fuel economy and performance",
-        "Longer engine lifespan",
-        "Warranty on all repairs"
+        "Accurate diagnostics save time and money",
+        "Repairs that restore performance and fuel efficiency",
+        "Long-lasting solutions with quality parts"
       ],
       "process": [
         {
-          "title": "Scan",
-          "description": "Connect diagnostic tools to read error codes."
+          "title": "Comprehensive Scan",
+          "description": "We connect your vehicle to our diagnostic system to read error codes and analyze performance data."
         },
         {
-          "title": "Analyze",
-          "description": "Interpret data and inspect related components."
+          "title": "Detailed Explanation",
+          "description": "We explain the issue and provide a clear estimate before any work begins."
         },
         {
-          "title": "Repair",
-          "description": "Fix the root cause with precision."
+          "title": "Precision Repair",
+          "description": "Our technicians perform the repair using OEM or high-quality parts, then test to ensure everything is perfect."
         }
       ],
       "faqs": [
         {
-          "question": "Why is my check engine light on?",
-          "answer": "It could be a minor issue like a loose gas cap or something more serious. We'll diagnose it accurately."
+          "question": "How long does an engine diagnostic take?",
+          "answer": "Most diagnostics take about 1-2 hours, depending on the complexity of the issue."
         },
         {
-          "question": "How long does engine diagnostic take?",
-          "answer": "Most diagnostics are completed within an hour."
+          "question": "Do you offer a warranty on engine repairs?",
+          "answer": "Yes, we stand by our work with a warranty on parts and labor."
         }
       ],
       "slug": "engine-diagnostics-repair"
     },
     {
-      "icon": "03",
-      "title": "Oil Changes & Preventive Maintenance",
-      "shortDescription": "Regular oil changes and fluid checks to keep your engine healthy.",
-      "longDescription": "Routine maintenance is key to vehicle longevity. We offer complete oil changes using quality oils and filters, plus multi-point inspections to catch small issues before they become big problems.",
+      "icon": "02",
+      "title": "Brake Service & Repair",
+      "shortDescription": "Keep your brakes in top condition for safety and performance.",
+      "longDescription": "Your brakes are your vehicle's most important safety feature. We inspect, repair, and replace brake pads, rotors, calipers, and fluid to ensure reliable stopping power.",
       "benefits": [
-        "Prolonged engine life",
-        "Better fuel efficiency",
-        "Early detection of potential issues",
-        "Convenient same-day service"
+        "Enhanced safety and stopping distance",
+        "Reduced noise and vibration",
+        "Extended brake system lifespan"
       ],
       "process": [
         {
-          "title": "Drain & Replace",
-          "description": "Drain old oil and replace with fresh oil and filter."
+          "title": "Thorough Inspection",
+          "description": "We check pads, rotors, calipers, lines, and fluid levels."
         },
         {
-          "title": "Inspect",
-          "description": "Check fluids, belts, hoses, and tire pressure."
+          "title": "Honest Recommendation",
+          "description": "We advise on necessary repairs and optional upgrades based on your driving habits."
         },
         {
-          "title": "Report",
-          "description": "Provide a detailed report of your vehicle's condition."
+          "title": "Precision Installation",
+          "description": "We install quality components and perform a road test to confirm performance."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How often should I replace my brake pads?",
+          "answer": "Typically every 30,000-70,000 miles, but it depends on driving style and conditions."
+        },
+        {
+          "question": "What are signs of brake problems?",
+          "answer": "Squealing, grinding, vibration, or a soft brake pedal indicate it's time for an inspection."
+        }
+      ],
+      "slug": "brake-service-repair"
+    },
+    {
+      "icon": "03",
+      "title": "Oil Change & Fluid Services",
+      "shortDescription": "Regular oil changes and fluid checks to keep your engine healthy.",
+      "longDescription": "Routine oil changes are vital for engine longevity. We use high-quality oil and filters, and also check and top off all other fluids to keep your car running smoothly.",
+      "benefits": [
+        "Improved engine performance and fuel economy",
+        "Prevents costly engine damage",
+        "Complimentary multi-point inspection with every oil change"
+      ],
+      "process": [
+        {
+          "title": "Drain Old Oil",
+          "description": "We safely drain and recycle old oil and remove the used filter."
+        },
+        {
+          "title": "Add Fresh Oil & Filter",
+          "description": "We install a new filter and add the recommended oil type and amount."
+        },
+        {
+          "title": "Fluid Check & Inspection",
+          "description": "We check all fluids, belts, hoses, and tire pressure, and provide a report."
         }
       ],
       "faqs": [
         {
           "question": "How often should I get an oil change?",
-          "answer": "Every 5,000 to 7,500 miles for most modern vehicles."
+          "answer": "Every 5,000 to 7,500 miles for most modern vehicles, but check your owner's manual."
         },
         {
-          "question": "What type of oil do you use?",
-          "answer": "We use high-quality conventional and synthetic oils to meet manufacturer specs."
+          "question": "What oil do you use?",
+          "answer": "We use conventional, synthetic blend, and full synthetic oils from top brands to meet your vehicle's needs."
         }
       ],
-      "slug": "oil-changes-preventive-maintenance"
+      "slug": "oil-change-fluid-services"
     },
     {
       "icon": "04",
-      "title": "AC & Electrical System Repair",
-      "shortDescription": "Keep your cabin cool and your electronics working.",
-      "longDescription": "From air conditioning recharges to complex electrical diagnostics, we handle all your vehicle's climate and electrical needs. Our technicians are skilled in modern automotive electronics.",
+      "title": "A/C & Heating Repair",
+      "shortDescription": "Keep your cabin comfortable year-round with expert A/C and heating service.",
+      "longDescription": "A malfunctioning A/C or heater can make driving miserable. We diagnose and repair all climate control systems, from refrigerant leaks to blower motor issues.",
       "benefits": [
-        "Comfortable driving in all seasons",
-        "Reliable electrical system performance",
-        "Expert diagnosis of intermittent issues",
-        "Affordable rates"
+        "Restored comfort in all seasons",
+        "Improved air quality and defrosting performance",
+        "Efficient system operation saves fuel"
       ],
       "process": [
         {
-          "title": "Test",
-          "description": "Check AC pressure and electrical circuits."
+          "title": "System Diagnosis",
+          "description": "We check refrigerant levels, compressor, condenser, and electrical components."
         },
         {
-          "title": "Diagnose",
-          "description": "Identify faulty components or leaks."
+          "title": "Leak Detection & Repair",
+          "description": "We find and fix leaks using UV dye and professional tools."
         },
         {
-          "title": "Repair",
-          "description": "Replace or repair parts and recharge system."
+          "title": "Recharge & Test",
+          "description": "We recharge the system to manufacturer specs and verify proper cooling/heating."
         }
       ],
       "faqs": [
         {
-          "question": "Why is my AC blowing warm air?",
-          "answer": "Often due to low refrigerant or a compressor issue. We can diagnose and fix it."
+          "question": "Why is my A/C blowing warm air?",
+          "answer": "Common causes include low refrigerant, a bad compressor, or an electrical issue. We can diagnose it."
         },
         {
-          "question": "Can you fix a parasitic battery drain?",
-          "answer": "Yes, we specialize in electrical diagnostics to find and fix battery drains."
+          "question": "How long does an A/C repair take?",
+          "answer": "Most repairs take 2-4 hours, but complex issues may require longer."
         }
       ],
-      "slug": "ac-electrical-system-repair"
+      "slug": "ac-heating-repair"
     }
   ],
   "about": {
-    "headline": "Dallas's Reliable Auto Repair Team",
-    "mission": "To provide honest, high-quality auto repair services that keep our community safe on the road.",
+    "headline": "Your Trusted Dallas Auto Repair Shop",
+    "mission": "To provide honest, high-quality auto repair services that keep our community safe on the road, with transparency and integrity at every step.",
     "story": [
-      "Contreras Auto Repair LLC was founded with a simple mission: deliver trustworthy auto repair to the Dallas community. Our founder, a seasoned mechanic with over two decades of experience, saw a need for transparent service where customers are treated like family. We started small, but our commitment to quality and honesty quickly earned us a loyal following.",
-      "Today, we continue that tradition. Every repair is backed by our dedication to excellence, and every customer is greeted with respect. We invest in the latest tools and ongoing training to ensure your vehicle receives the best care possible."
+      "Contreras Auto Repair LLC was founded in 2010 with a vision to offer Dallas drivers a better auto repair experience. Owner Juan Contreras, a master technician with over 15 years of experience, wanted to build a shop where customers felt respected and informed. Starting with a small two-bay garage, the business grew through word-of-mouth thanks to its commitment to quality and fairness.",
+      "Today, we serve thousands of satisfied customers from Lakewood to White Rock and beyond. Our team continues the tradition of honest diagnostics, fair pricing, and expert repairs. We treat every vehicle as if it were our own, because your safety and satisfaction are what drive us."
     ],
     "highlight": {
-      "stat": "20+",
-      "label": "Years of Experience"
+      "stat": "15+",
+      "label": "Years of Serving Dallas"
     },
     "coreValues": [
       {
         "title": "Integrity",
-        "description": "We do what's right, not what's profitable."
+        "description": "We always tell you the truth about your vehicle's needs and never recommend unnecessary repairs."
       },
       {
         "title": "Quality",
-        "description": "We use top-tier parts and skilled workmanship."
-      },
-      {
-        "title": "Transparency",
-        "description": "Clear communication and upfront pricing always."
+        "description": "We use the best parts and tools to ensure repairs last and perform reliably."
       },
       {
         "title": "Community",
-        "description": "Proudly serving Dallas with local, family-owned care."
+        "description": "We are proud to be a locally owned business that supports our Dallas neighbors."
+      },
+      {
+        "title": "Transparency",
+        "description": "Clear estimates, open communication, and no hidden fees—always."
       }
     ]
   },
   "contact": {
     "headline": "Get in Touch",
-    "subheadline": "We're here to help with all your auto repair needs.",
+    "subheadline": "Ready to schedule service? Call us or fill out the form below.",
     "primaryCta": "Call (214) 392-1258",
     "formCta": "Send Message",
     "serviceAreas": [
       "Dallas",
       "Lakewood",
+      "White Rock",
       "East Dallas",
-      "Pleasant Grove",
-      "White Rock Lake"
+      "Old East Dallas",
+      "M Streets",
+      "Lower Greenville",
+      "Hollywood Heights"
     ]
   },
   "social_proof": {
-    "rating": 3.9,
+    "rating": "",
     "reviews": null
   },
   "meta": {
